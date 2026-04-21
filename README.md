@@ -1,1 +1,1 @@
-Hello! This is Charis. Welcome to GitHub, its used to help collaborators write code together, but it should work fine for sharing images as well. Lemme know if anyone is having trouble moving arounf GitHub!
+Hello! This is Charis. Welcome to GitHub, its used to help collaborators write code together, but it should work fine for sharing images as well. Lemme know if anyone is having trouble moving around GitHub!
